@@ -17,31 +17,6 @@
         "title": "Documents",
         "items": [
             {
-                "titles": "福特喜膠囊 FLACIL CAPSULES介紹",
-                "author": "Cancerfree",
-                "no": 2087,
-                "date": "2024/10/28",
-                "tags": [
-                    "福特喜膠囊",
-                    "FLACIL CAPSULES",
-                    "抗生素",
-                    "細菌感染",
-                    "病毒感染",
-                    "真菌感染",
-                    "寄生蟲感染"
-                ],
-                "website": [
-                    "Lung Cancer",
-                    "Breast Cancer",
-                    "Gastric Cancer",
-                    "Esophageal Cancer",
-                    "Colorectal Cancer",
-                    "Pancreatic Cancer",
-                    "Ovarian Cancer",
-                    "Liver Cancer"
-                ]
-            },
-            {
                 "titles": "深入了解化療藥物副作用及其對癌症的影響",
                 "author": "Cancerfree",
                 "no": 1023,
@@ -332,93 +307,6 @@
                     "Colorectal Cancer",
                     "Brain tumor",
                     "Oral Cancer"
-                ]
-            },
-            {
-                "titles": "卵巢癌復發：詳細介紹及解答",
-                "author": "Cancerfree",
-                "no": 674,
-                "date": "2024/10/07",
-                "tags": [
-                    "癌症預防",
-                    "癌症治療",
-                    "健康教育",
-                    "癌症復發",
-                    "卵巢癌",
-                    "婦女健康"
-                ],
-                "website": [
-                    "Ovarian Cancer"
-                ]
-            },
-            {
-                "titles": "深入理解CA-125正常範圍與卵巢癌",
-                "author": "Cancerfree",
-                "no": 576,
-                "date": "2024/09/29",
-                "tags": [
-                    "診斷",
-                    "卵巢癌",
-                    "疾病篩查",
-                    "婦科健康",
-                    "CA-125",
-                    "腫瘤標記物"
-                ],
-                "website": [
-                    "Ovarian Cancer"
-                ]
-            },
-            {
-                "titles": "卵巢癌的標靶藥物詳細介紹",
-                "author": "Cancerfree",
-                "no": 574,
-                "date": "2024/09/29",
-                "tags": [
-                    "癌症治療",
-                    "卵巢癌",
-                    "赫赛汀",
-                    "標靶藥物",
-                    "貝瓦單抗",
-                    "帕博瑪赞"
-                ],
-                "website": [
-                    "Ovarian Cancer"
-                ]
-            },
-            {
-                "titles": "超音波檢查在卵巢癌的應用介紹",
-                "author": "Cancerfree",
-                "no": 572,
-                "date": "2024/09/29",
-                "tags": [
-                    "中醫",
-                    "婦科腫瘤",
-                    "卵巢癌",
-                    "早期診斷",
-                    "篩檢",
-                    "超音波檢查"
-                ],
-                "website": [
-                    "Ovarian Cancer"
-                ]
-            },
-            {
-                "titles": "末期卵巢癌的詳細介紹",
-                "author": "Cancerfree",
-                "no": 569,
-                "date": "2024/09/29",
-                "tags": [
-                    "治療方法",
-                    "癌症",
-                    "症狀",
-                    "婦科",
-                    "婦科疾病",
-                    "卵巢癌",
-                    "預後",
-                    "末期卵巢癌"
-                ],
-                "website": [
-                    "Ovarian Cancer"
                 ]
             }
         ]
