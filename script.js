@@ -221,7 +221,7 @@ function displayArticles(page) {
             articleElement.innerHTML = `
                 <h2>${article.titles}</h2>
                 <div class="article-meta">
-                    作者: ${article.author} | 日期: ${article.date} | 標籤: ${article.tags.join(', ')}
+                    日期: ${article.date} | 標籤: ${article.tags.join(', ')}
                 </div>
             `;
             articleContainer.appendChild(articleElement);
