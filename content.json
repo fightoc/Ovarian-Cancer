@@ -17,6 +17,30 @@
         "title": "Documents",
         "items": [
             {
+                "titles": "2025最新「卵巢癌風險模型」震撼登場！預後關鍵一次看懂",
+                "author": "",
+                "no": 2632,
+                "date": "2025/04/16 10:09 AM",
+                "tags": [
+                    "卵巢癌",
+                    "MEK1",
+                    "預後",
+                    "風險模型",
+                    "存活",
+                    "GSK3",
+                    "HSP70",
+                    "MTOR",
+                    "BAD",
+                    "NDRG1",
+                    "疾病特異存活",
+                    "共表達分析"
+                ],
+                "website": [
+                    "Ovarian Cancer"
+                ],
+                "description": "本研究採TCPA及TCGA，篩選六蛋白(GSK3、HSP70、MEK1、MTOR、BAD、NDRG1)建構成風險模型，可預測卵巢癌預後並協助臨床管理。"
+            },
+            {
                 "titles": "2025 胃鏡檢查大揭密：LGIN 會變成胃癌嗎？最新研究這樣說",
                 "author": "",
                 "no": 2631,
