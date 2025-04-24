@@ -17,6 +17,30 @@
         "title": "Documents",
         "items": [
             {
+                "titles": "2025最新突破：PD-L1基因免疫療法如何改變卵巢癌治療？",
+                "author": "",
+                "no": 2648,
+                "date": "2025/04/24 06:02 PM",
+                "tags": [
+                    "卵巢癌",
+                    "存活率",
+                    "免疫治療",
+                    "免疫檢查點抑制劑",
+                    "腺相關病毒",
+                    "CRISPR-Cas9",
+                    "程式性死亡配體1",
+                    "基因編輯",
+                    "腹膜播散",
+                    "腹腔內注射",
+                    "腫瘤微環境",
+                    "T細胞浸潤"
+                ],
+                "website": [
+                    "Ovarian Cancer"
+                ],
+                "description": "本研究利用AAV-CRISPR/Cas9敲除卵巢癌細胞PD-L1基因，促進腫瘤中CD4及CD8 T細胞浸潤並減少Treg，顯示可延長生存並減少副作用，"
+            },
+            {
                 "titles": "2025卵巢癌新視野：NCAPH與MEK/ERK/PD-L1路徑的重要突破",
                 "author": "",
                 "no": 2643,
